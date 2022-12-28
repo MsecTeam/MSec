@@ -6,13 +6,21 @@
   |_|  |_|____/|_____\____|
 
   INSTALLATION TOOLS
+  
   apt update
+  
   apt upgrade
+  
   apt install git
+  
   apt install bash
+  
   apt install python2
+  
   git clone https://github.com/MsecTeam/MSec
+  
   cd MSec
+  
   bash install.sh
   ---------------------------
   THANKS FOR ALL TO USE TOOLS
