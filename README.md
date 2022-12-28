@@ -24,7 +24,6 @@
     apt install python2
     git clone https://github.com/MsecTeam/MSec
     cd MSec
-    pip install -r requirements.txt
     bash install.sh
     ---------------------------
     THANKS FOR ALL TO USE TOOLS
