@@ -5,7 +5,7 @@
     | |  | |___) | |__| |___ 
     |_|  |_|____/|_____\____|
 
-    INSTALLATION TOOLS
+    INSTALLATION TOOLS FOR LINUX
     apt update
     apt upgrade
     apt install git
@@ -13,6 +13,18 @@
     apt install python2
     git clone https://github.com/MsecTeam/MSec
     cd MSec
+    pip install -r requirements.txt
+    python2 msectools.py
+    ---------------------------
+    INSTALLATION TOOLS FOR TERMUX
+    apt update
+    apt upgrade
+    apt install git
+    apt install bash
+    apt install python2
+    git clone https://github.com/MsecTeam/MSec
+    cd MSec
+    pip install -r requirements.txt
     bash install.sh
     ---------------------------
     THANKS FOR ALL TO USE TOOLS
